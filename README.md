@@ -12,7 +12,7 @@ Tego typu rozwiązania mają ogromne znaczenie w prawdziwym świecie – mogą s
 
 ---
 
-## 2. Historia projektu i proces iteracyjny (Współpraca człowiek-AI) 🧠
+## 2. Historia projektu i proces iteracyjny 🧠
 Projekt został zrealizowany w formule *Pair Programming* przy użyciu asystenta AI. Proces powstawania programu nie był liniowy i wymagał wprowadzenia ważnych poprawek w trakcie pracy:
 
 * **Iteracja I (Próba z Wikipedią):** Pierwotnym planem było pobranie danych metodą web scrapingu z Wikipedii na temat globalnego dobrostanu (*World Happiness Report*). Serwery Wikipedii blokowały jednak automatyczne zapytania, a dynamiczne zmiany struktury tabel przez internautów wywoływały błędy braku kolumn (`KeyError`). Dodatkowo zbiór miał zaledwie ok. 150 wierszy, co groziło drastycznym przeuczeniem modeli (*overfittingiem*).
