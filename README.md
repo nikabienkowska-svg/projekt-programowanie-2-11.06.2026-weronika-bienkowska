@@ -56,4 +56,4 @@ Ostateczny werdykt jednoznacznie wskazuje na **zoptymalizowany Las Losowy**. Uzy
 Notatnik zawiera wbudowany podgląd raportu końcowego HTML oraz dedykowany przycisk pobierania pliku PDF, dostosowany do bezpiecznego działania na każdej przeglądarce (w tym Safari/Chrome) oraz niezależny od systemowego trybu ciemnego (Dark Mode).
 
 Możesz otworzyć i uruchomić cały projekt na żywo w Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tVQ1KgUMPWamF07rZYBqIMjUm2NtQjJ8#scrollTo=FCvbtpQgnhIM)
+(https://colab.research.google.com/drive/1tVQ1KgUMPWamF07rZYBqIMjUm2NtQjJ8#scrollTo=FCvbtpQgnhIM)
